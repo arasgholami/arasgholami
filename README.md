@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arasgholami
 - 👀 I’m interested in Vb.net ,Asp.net Core
 - 🌱 I’m always on Learning.
-- 💞️ I’m looking to collaborate on .net core Project
+- 💞️ I’m ERP Developer
 - 📫 How to reach me Aras.gholami@gmail.com
 
 <!---
